@@ -1,0 +1,43 @@
+aluno1 = "ana carolina"
+aluno2 = "david"
+aluno3 = "joao"
+aluno4 = "maria"
+aluno5 = "jose"
+console.log(aluno1,aluno2,aluno3,aluno4,aluno5)
+
+variavel1 = "beringela"
+variavel2 = "pimenta"
+variavel3 = "sushi"
+variavel4 = "maçã"
+variavel5 = "abobora"
+console.log(variavel1, variavel2, variavel3, variavel4, variavel5)
+
+zebra = true
+cavalo = false
+boi = true
+peixe = false
+girafa = true
+
+console.log (zebra)
+console.log (cavalo)
+console.log (boi)
+console.log (peixe)
+console.log (girafa)
+
+salario1 = true
+salario2 = false
+salario3 = true
+salario4 = false
+salario5 = true
+
+console.log (salario1)
+console.log (salario2)
+console.log (salario3)
+console.log (salario4)
+console.log (salario5)
+
+const PI = 3.14
+const REAL = 1999
+const NEGATIVO = -5
+const CARACTER = 3
+const DECIMAL = 2.4342434
